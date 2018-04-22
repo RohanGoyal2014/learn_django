@@ -1,2 +1,2 @@
 #<b>Learning Django</b>
-#Hosted at:rohangoyal2014.pythonanywhere.com
+<br>Hosted at:rohangoyal2014.pythonanywhere.com
